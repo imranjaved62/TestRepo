@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoClonedFromGit", "RepoClonedFromGit\RepoClonedFromGit.csproj", "{D6252B30-B3DD-4158-9029-45B222FCDAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6252B30-B3DD-4158-9029-45B222FCDAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6252B30-B3DD-4158-9029-45B222FCDAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6252B30-B3DD-4158-9029-45B222FCDAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6252B30-B3DD-4158-9029-45B222FCDAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14361F12-864E-4BCD-995E-7FF2B2FB0B3D}
+	EndGlobalSection
+EndGlobal
